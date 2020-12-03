@@ -10,3 +10,6 @@
  * [Slides](http://www.mblondel.org/teaching/duality-2020.pdf)
  * [Notebook](https://colab.research.google.com/github/mblondel/teaching/blob/main/duality-2020/duality_lab_work.ipynb) (lab work)
 
+## Beyond gradient descent
+
+ * [Slides](http://www.mblondel.org/teaching/beyond-gd-2020.pdf)
